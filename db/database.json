@@ -41,7 +41,7 @@
         "id": 10
       }],
   
-      "Popular" : [
+      "popular" : [
       {
         "title": "\"Bishop Brennan must address racism in his diocese\"",
         "date": "20200712",
@@ -283,7 +283,7 @@
         "id": 34
       }],
   
-      "Interview" : [
+      "interview" : [
         {
           "title": "\"Catholic lay leader says release of diocese audit is significant but not enough\"",
           "date": "20200224",
@@ -347,7 +347,7 @@
   
   ],
       
-      "Tribute" : [
+      "tribute" : [
       {
         "title": "\"Between the Present and the Hoped-for Future: Reflecting on the Life of Michael J. Iafrate\"",
         "date": "20210709",
@@ -413,7 +413,7 @@
         "id": 45
       }],
       
-      "BookReview" : [
+      "bookreview" : [
       {
         "title": "\"Clearing Up Appalachia's Smoky History: Two Books Reflect Revival, Debates\"",
         "date": "20180518",
@@ -465,7 +465,7 @@
         "id": 50
       }],
       
-      "BookChapter" : [
+      "bookchapter" : [
       {
         "title": "\"Blasphemy, Conversion, and Liberation: 'Christian' 'Punk' in Theological Perspective\"",
         "date": "20200100",
@@ -497,7 +497,7 @@
         "id": 53
       }],
     
-      "Pastoral" : [
+      "pastoral" : [
       {
         "title": "\"Appalachian Spring\"",
         "date": "07002016",
