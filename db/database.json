@@ -350,6 +350,16 @@
   ],
       
       "tribute" : [
+        {
+          "title": "A Tribute to Michael J. Iafrate: Appalachian Activist, Theologian, Musician & More",
+          "date": "20220429",
+          "displayDate": "April 29, 2022",
+          "publication": "The Blue Ridge Breakdown",
+          "summary": "Troy Miller, graduate student of Appalachian Studies at Shepherd University, created an episode about Michael for an assignment to create a podcast highlighting an Appalachian topic. Features a conversation with Michael's friend and fellow musician, Sean Decker. ",
+          "link": "https://blueridgebreakdown.substack.com/p/a-tribute-to-appalachian-activist",
+          "category": "Tribute",
+          "id": 60
+        },
       {
         "title": "\"Between the Present and the Hoped-for Future: Reflecting on the Life of Michael J. Iafrate\"",
         "date": "20210709",
