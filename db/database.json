@@ -316,6 +316,16 @@
           "category": "Interview",
           "id": 36
         },
+           {
+        "title": "\"New book explores theology in music, from choir to metal to punk\"",
+        "date": "20170827",
+        "displayDate": "August 27, 2017",
+        "publication": "The B.C. Catholic",
+        "summary": "Discussion of the book MUSIC, THEOLOGY, & JUSTICE to which Michael contributed a chapter; also features book's editor, Michael O'Connor ",
+        "link": "https://bccatholic.ca/news/canada/new-book-explores-theology-in-music-from-choir-to-metal-to-punk",
+        "category": "Interview",
+        "id": 380
+      },
       {
         "title": "\"In God's Country: An Interview with Michael Iafrate of M Iafrate & The Priesthood\"",
         "date": "20170707",
@@ -346,6 +356,7 @@
         "category": "Interview",
         "id": 38
       }
+          
   
   ],
       
